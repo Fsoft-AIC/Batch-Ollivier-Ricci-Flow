@@ -75,7 +75,7 @@ python run_graph_classification.py --layer_type GCN \
 ```
 
 ## Citation and reference
-For technical details and full experiment results, please check [out paper](https://arxiv.org/abs/2211.15779).
+For technical details and full experiment results, please check [our paper](https://arxiv.org/abs/2211.15779).
 ```
 @misc{nguyen2023revisiting,
       title={Revisiting Over-smoothing and Over-squashing using Ollivier-Ricci Curvature}, 
